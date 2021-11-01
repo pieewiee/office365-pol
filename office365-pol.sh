@@ -17,7 +17,7 @@ source "$PLAYONLINUX/lib/sources"
 
 TITLE="Microsoft 365 Apps / Office 365"
 SHORTNAME="Office365"
-WINEVERSION="cx-20.0.4"
+WINEVERSION="cx-21.0.0"
 SYSARCH="x86"
 
 # Initial greetings
